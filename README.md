@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SankyGhorpade
-- 👀 I’m interested in MERN Stack Front-End Developer and Cloud Developer
+- 👀 I’m interested in MERN Stack Developer and Java Backend Developer
 - 🌱 I’m currently learning IT Engineering BE
-- 💞️ I’m looking to collaborate on Cloud Engineering
+- 💞️ I’m looking to collaborate on Software projects
 - 📫 How to reach me sanketghorpade11@gmail.com
 
 <!---
