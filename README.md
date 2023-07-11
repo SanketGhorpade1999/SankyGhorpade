@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SankyGhorpade
+- 👋 Hi, I’m @SanketGhorpade
 - 👀 I’m interested in MERN Stack Developer and Java Backend Developer
 - 🌱 I’m currently pursuing Bachelors of Engg. in IT 
 - 💞️ I’m looking to collaborate on Software projects
